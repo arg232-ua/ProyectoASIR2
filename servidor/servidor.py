@@ -41,7 +41,7 @@ def conectar_bd(servidor_bd):
     
 
 
-############## CLASE SERVIDOR ##############
+############## CLASE SERVIDOR ###############
 
 
 
