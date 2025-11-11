@@ -71,7 +71,7 @@ def main():
     servidor_kafka = sys.argv[1]
     servidor_bd = sys.argv[2]
 
-    print(f"Kafka: {servidor_kafka}. BD: {servidor_bd}") # BORRRARR
+    print(f"Kafka: {servidor_kafka}. BD: {servidor_bd}") # BORRRAR
 
     server = Servidor(servidor_kafka, servidor_bd)
 
